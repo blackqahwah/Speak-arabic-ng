@@ -13,3 +13,12 @@
 .dropdown-toggle {
   outline: 0;
 }
+
+.highlightme{
+  padding-left: 0.15em;
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+  background-color: #0056cf;
+  color: #f4f4d6;
+  text-decoration: none !important;
+}
