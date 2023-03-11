@@ -15,10 +15,27 @@
 }
 
 .highlightme{
-  padding-left: 0.15em;
-  padding-top: 0.01em;
-  padding-bottom: 0.01em;
-  background-color: #0056cf;
-  color: #f4f4d6;
-  text-decoration: none !important;
+ padding-left: 0.13em;
+ padding-top: 0.2em;
+ background-color: #fc76c6;
+ color: #103975;
+ text-decoration: none !important;
 }
+
+.btn-lnd{
+  border-radius: 1.5rem !important;
+  color: #103975 !important ;
+  background: none !important ;
+  border-color: #103975 !important ; 
+}
+
+.btn-lnd:hover{
+color: #ececec !important ;
+background: #103975!important ;
+}
+
+.btn-lnd:active{
+color: #103975!important ;
+background: #fc76c6 !important;
+}
+.
